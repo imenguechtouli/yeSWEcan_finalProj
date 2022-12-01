@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.user-parameters-form{
+    text-align: center;
+}
+
+.form-input {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
